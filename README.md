@@ -1,3 +1,31 @@
+# Host Link: 
+
+# About Application:
+
+* It is an ecommerce application, I have used React, Redux for building the application. Created a dummy API using typicode(link : https://my-json-server.typicode.com/).
+* Open the application using the above host link.
+* You can see the products in the home page, each product have it's own description, edit button, delete and add to cart button.
+* On clicking the product you will be navigated to the product page.
+* Each button has it's respective fuctionality.
+* In the navbar, you will find an option for adding the products to the application. On clicking which you will be redirected to the Form where you can fill up the required data and add the product.
+* On adding the product, there won't be any changes made to the db file from where the data is being fetched as it is a dummy API.
+* On the navbar there is an option to check the items present in the cart, where you can check the total price of all the items. Also the count is mentioned over the cart icon.
+
+
+## How to create the Dummy API:
+
+* Create a repository in github.
+* Create a db.json file in the repository.
+* Add the data into the db.json file as mentioned in the below link:
+    #### gitRepo Link : https://github.com/AfredHussain-T/productData/blob/main/db.json
+
+* Use the API as mentioned here https://my-json-server.typicode.com/<git-profile>/<repoName>/
+
+* Ex: https://my-json-server.typicode.com/AfredHussain-T/productData/
+* You are good to go with the dummy API.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
