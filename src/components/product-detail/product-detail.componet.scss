@@ -1,0 +1,46 @@
+.product-details {
+  display: flex;
+  align-items: center;
+  background-color: lightcoral;
+  margin-top: 10%;
+  margin: 5%;
+  border-radius: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+
+  img {
+    width: 100%;
+  }
+  .details-title-price-buy {
+    margin-left: 150px;
+    width: 100%;
+    .details {
+      margin-top: 30px;
+      margin-bottom: 20px;
+      width: 50%;
+    }
+    .price {
+      margin-bottom: 30px;
+    }
+
+    .add-prod-button {
+      padding: 10px;
+      font-size: 12px;
+      margin-top: 25px;
+      border: none;
+      background-color: #0a0a0a;
+      border: 2px solid hsl(213, 28%, 19%);
+      border-radius: 10px;
+      font-family: 'Times New Roman', Times, serif;
+      font-style: italic;
+      color: #f2f2f2;
+      font-size: 15px;
+      width: 30%;
+      transition: all 0.4s;
+    }
+    .add-prod-button:hover {
+      background-color: #f2f2f2;
+      color: #0e0e0e;
+    }
+  }
+}
