@@ -19,7 +19,7 @@
 * Add the data into the db.json file as mentioned in the below link:
     #### gitRepo Link : https://github.com/AfredHussain-T/productData/blob/main/db.json
 
-* Use the API as mentioned here https://my-json-server.typicode.com/<git-profile>/<repoName>/
+* Use the API as mentioned here `https://my-json-server.typicode.com/<git-profile>/<repoName>/`
 
 * Ex: https://my-json-server.typicode.com/AfredHussain-T/productData/
 * You are good to go with the dummy API.
