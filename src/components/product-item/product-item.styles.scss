@@ -1,4 +1,5 @@
 .product-card {
+  border: 2px solid black;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -59,3 +60,5 @@ textarea {
   padding: 5px;
   font-family: "Amazon Ember", sans-serif;
 }
+
+

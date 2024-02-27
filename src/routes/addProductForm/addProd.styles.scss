@@ -3,3 +3,9 @@
   align-items: center;
   justify-content: center;
 }
+/* Media query which is applied if the screen size is less than 1000px */
+@media screen and (max-width: 1000px) {
+  .formContainer {
+      width:950px ;
+  }
+}
